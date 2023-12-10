@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @Mabhang1
 - 👨‍💻 Developer,Creater,Learner
 - 🌱 Currently a Computer Science Master's student.
-- I hold more than 25 IT certificate and more than 5 non IT certificates[Here](https://drive.google.com/drive/folders/1hRUNSXC6iXqCG3pZac5lBcHWigBPiY92?usp=drive_link)
+- I hold more than 25 IT and more than 5 non IT [certificates](https://drive.google.com/drive/folders/1hRUNSXC6iXqCG3pZac5lBcHWigBPiY92?usp=drive_link)
 - Also 15+ badges on [Google Developer Profile](https://g.dev/maneabhang)
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
