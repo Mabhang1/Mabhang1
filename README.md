@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abhang Mane</h1>
 
-<h3 align="center">Flutter Developer From Mumbai,India.</h3>
+<h3 align="center">Developer From Mumbai,India.</h3>
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
