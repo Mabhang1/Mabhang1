@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abhang Mane</h1>
 
-<h2 align="center">IOS Developer Intern At Goldmedal Electricals Pvt Ltd.</h2>
+<h2 align="center">iOS Developer Intern At Goldmedal Electricals Pvt Ltd.</h2>
 
 <h3 align="center">Developer From Mumbai,India.</h3>
 
