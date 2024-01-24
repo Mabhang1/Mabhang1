@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @Mabhang1
 - 👨‍💻 Developer,Creater,Learner
-- 🌱 Currently a Computer Science Master's student and woking at Goldmedal Electrical Pvt Ltd Full Time
+- 🌱 Currently a Computer Science Master's student and woking at Goldmedal Electrical Pvt Ltd both Full Time
 - I hold more than 25 IT and more than 5 non IT [certificates](https://drive.google.com/drive/folders/1hRUNSXC6iXqCG3pZac5lBcHWigBPiY92?usp=drive_link)
 - Also 15+ badges on [Google Developer Profile](https://g.dev/maneabhang)
 
