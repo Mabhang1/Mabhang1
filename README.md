@@ -2,7 +2,7 @@
 
 <h2 align="center">iOS Developer At Goldmedal Electricals Pvt Ltd.</h2>
 
-<h3 align="center">Developer From Mumbai,India.</h3>
+<h3 align="center">From Mumbai,India.</h3>
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
